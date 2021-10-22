@@ -1,4 +1,4 @@
-### Olá! Seja bem vindo, me chamo Lucas Vieira.
+### Hi! Welcome, i'm Lucas Vieira.
 
 ##
 
