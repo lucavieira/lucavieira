@@ -4,6 +4,7 @@
   * :computer: I'm graduated in Computer Networks
   * :man_student: Studying Data Science
   * :man_technologist: Studying to become a Full Stack Developer
+  * :dart: I'm dedicated and focused
 
 ##
 
