@@ -1,4 +1,9 @@
-### Hi! Welcome, i'm Lucas Vieira.
+## Hi! I'm Lucas Vieira.
+
+### About me
+  * :computer: I'm graduated in Computer Networks
+  * :man_student: Studying Data Science
+  * :man_technologist: Studying to become a Full Stack Developer
 
 ##
 
