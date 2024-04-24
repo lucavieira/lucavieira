@@ -1,33 +1,11 @@
-## Hi! I'm Lucas Vieira.
+### Olá, meu nome é Lucas Vieira!
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=lucavieira&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+<p>Sou desenvolvedor Front-End 👨‍💻</p>
 
-### About me
-  * :computer: I'm graduated in Computer Networks
-  * :man_student: Studying Data Science
-  * :man_technologist: Studying to become a Full Stack Developer
-  * :dart: I'm dedicated and focused
-
-##
-
-<div align="center">
-  <a href="https://github.com/lucavieira">
-   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucavieira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucavieira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucavieira&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Luca-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Luca-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Luca-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Luca-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Luca-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-  
-  
-  ##
-  
+<p>Gosto de ser desafiado a tentar algo novo, ver a evolução do zero até algo apresentavel, considero uma das melhores coisas na programação. Isso me motiva bastante, além de 
+saber que estou ajudando alguém, pois meu objetivo em querer aprender mais sobre a tecnologia, é poder utilizar a mesma para ajudar quem realmente precisa. Costumo sempre pesquisar mais quando vejo algum assunto que me interessa, leio documentações, assisto vídeos e se possível faço algumas práticas para poder entender o funcionamento.</p>
 <div> 
-  <a href="https://www.instagram.com/_lucass_vieira_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lukasveras14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-vieira-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/_lucass_vieira_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href = "mailto:lukasveras14@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/lucvieira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
